@@ -65,6 +65,7 @@ Feedback
 This is the first time I ever worked with docker. Pullrequests and hints on how
 to improve the process are more than welcome.
 
- Edit file
+Edit file
+---------
 
 docker exec -it <container-id> bash 
